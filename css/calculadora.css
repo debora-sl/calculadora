@@ -1,0 +1,11 @@
+.principal__calculadora{
+    border: thin solid #d46161;
+    height: 300px;
+    width: 200px;
+}
+
+.principal__calculadora__visor{
+    background: #3f3b3b;
+    height: 30px;
+    padding: 1px;
+}
