@@ -22,7 +22,6 @@
 }
 
 .principal__calculadora__numeros{
-    border: thin solid #95d42e;
     display: flex;
     flex-wrap: wrap;
     height: 150px;
@@ -39,3 +38,13 @@
     font-size: 1em;
     padding: 8px;
 }
+
+.principal__calculadora__botao-operacoes{
+    align-items: center;
+    background: #e7ca23;
+    border-radius: 50px;
+    color: #4b4848;
+    font-size: 1em;
+    padding: 8px;
+}
+
