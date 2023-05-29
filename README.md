@@ -4,5 +4,5 @@
 
 Dividir para conquistar:
 * Criar a página (index.HTML); **FEITO ✔**
-* Criar a Calculadora com os botões números de 0 à 9;
-* Criar os botões de soma, subtração, multiplicação e divisão;
+* Criar a Calculadora com os botões números de 0 à 9; **FEITO ✔**
+* Criar os botões de soma, subtração, multiplicação e divisão; **FEITO ✔**
