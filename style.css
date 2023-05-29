@@ -1,5 +1,5 @@
 body{
-    border: thin solid #1d1b1b;
+    background: #233d25;
     display: flex;
     flex-direction: column;
 
@@ -14,4 +14,5 @@ main{
 
 .principal{
     border: thin solid #c9bc11;
+    border-radius: 3px;
 }
